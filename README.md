@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winid
+- 👋 Hi, I’m ig.garcia
 - 👀 I’m interested in AWS, Power BI, Python, R
 - 🌱 I’m currently learning DATA
 - 💞️ I’m looking to collaborate on ...
